@@ -1,0 +1,44 @@
+OSACUL - Open Source Attribution and Commerical Use License, Version 1.0
+-------------------------------------------------------------------------------------------------------------
+Copywrite 00/00/0000 - [Your Name]
+-------------------------------------------------------------------------------------------------------------
+Permission is hereby granted to any person obtaining a copy of this software and associated documentation 
+files (the "Software"), to use, copy, modify, and distribute the Software excluding any commercial usage by 
+for-profit companies except as dictated by section four, subject to the following conditions:
+
+1. Hobbyist Use:
+   Hobbyists are permitted to freely use, modify, distribute, and patent the software for personal, 
+   non-commercial use without requiring payment.
+
+2. Commercial Use:
+   Commercial use of this software by for-profit companies is strictly prohibited unless the following 
+   requirements are met:
+   a) Obtain direct permission from the current developers. Use the avalible contact information in the 
+   project's website, Software interfaces,
+   b) Pay a royalty of the company's profits derived from the software's usage, as agreed upon with the 
+   current developers, Said current developers may also choice to not require a royalty.
+
+3. Distribution:
+   All distributions of this software, modified or unmodified, must retain this license along with any 
+   copyright notices, attributions, and disclaimers.
+
+4. Attribution:
+   All recipients of this software must provide credit to the original developer(s) in the following format:
+   a) Include a visible and clickable link to the original developer(s) website or GitHub repository in 
+   your software's user interface or documentation.
+   OR
+   b) Display a visible credit in an easily identifiable location within your software's user interface, 
+   linking to the original developer(s) website or GitHub repository.
+
+5. Modification:
+   Except for the ownership line marked as "0/00/0000 - [Your Name]," any modifications made to this 
+   license must be clearly marked, and the original developer(s) must be credited for their initial 
+   contribution.
+
+THIS SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT 
+LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. 
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY.
+
+The original developer(s) of this software shall not be held responsible for any liabilities or damages 
+arising from the use, modification, or distribution of this software.
+-------------------------------------------------------------------------------------------------------------
