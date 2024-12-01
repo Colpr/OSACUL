@@ -1,6 +1,6 @@
 # OSACUL
 ## OSACUL - Open Source Attribution and Commerical Use License
-The OSACUL is a license made with the intention of creating a MIT or GNU-like license that would allow developers to have all rights as they normaly would, while keeping companies from profiting off of developers hard work, without any contrubution to the developer or the community. This license requires for-profit companies to pay a royality (or not) to the developer. You can find a template of the License in the above files.
+The OSACUL is a license made with the intention of creating a MIT or GNU-like license that would allow developers to have all rights as they normally would, while keeping companies from profiting off of developers hard work, without any contrubution to the developer or the community. This license requires for-profit companies to pay a royality (or not) to the developer. You can find a template of the License in the above files.
 
 ### The main requirements and conditions of the license are:
 
